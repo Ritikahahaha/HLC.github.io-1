@@ -12,27 +12,48 @@ Here's a glimpse into my journey:
 
 *OVERVIEW:*  
 
-1.Lack of Access to Schools Schools may be located far from slums, making attendance difficult. Insufficient number of schools to cater to growing populations in slums.
+-*Overcrowding:
+Overcrowding happens when too many people live in a limited space, often due to housing shortages and poverty. It leads to health risks, stress, reduced privacy, and strain on public services like water, electricity, and transportation.
 
-2.Poverty Families often prioritize earning over education, leading children to work instead of attending school. Inability to afford uniforms, books, and fees.
+-*Inadequate Infrastructure:
+Poor infrastructure, such as lack of clean water, sanitation, transportation, and energy, limits access to essential services. This hampers economic growth, exacerbates inequality, and contributes to health and safety issues.
 
-3.Poor Infrastructure Overcrowded classrooms and lack of basic facilities like clean drinking water, toilets, or proper lighting. Inadequate teaching materials and resources.
+-*Housing Crisis:
+A housing crisis arises when affordable housing is scarce due to rising property costs, stagnant wages, and insufficient government policies. It results in homelessness, overcrowding, and financial strain for households.
 
-4.Social Barriers Stigma and discrimination against slum residents can discourage children from attending school. Gender inequality, where girls may face additional barriers like early marriage or safety concerns.  
+-*Environmental Issues:
+Urbanization and poor planning lead to pollution, waste mismanagement, deforestation, and climate change. These environmental challenges worsen living conditions and increase the vulnerability of housing to natural disasters.
 
 - *Languages:* C++  
-- *Algorithms:* Dijkstra’s, A*, KMP, Graph Traversal (DFS/BFS)
+- *Algorithms:* Dijkstra’s, Graph Traversal (DFS/BFS), Greedy algorithm,Max flow algorithm,Dynamic programming algorithm.
 - *Tools:* Graphs, DAA Optimization Techniques  
 
 *Impact:*  
 
--*Enhanced Resource Allocation: Ensures resources like food, shelter, and medical aid reach the most vulnerable families efficiently.
+Overcrowding
+Health Risks: Increased spread of communicable diseases due to close proximity and poor sanitation.
+Mental Stress: Lack of privacy and personal space causes anxiety and tension.
+Educational Barriers: Children lack quiet spaces for study, impacting academic performance.
+Infrastructure Strain: Overburdened utilities (water, electricity) and public services (transportation, healthcare).
 
--*Increased Transparency: Provides a systematic and fair approach to aid distribution, promoting trust among beneficiaries.
+2. Inadequate Infrastructure
+Health Issues: Poor sanitation and lack of clean water lead to disease outbreaks.
+Economic Inefficiency: Delayed transport, power outages, and limited connectivity reduce productivity.
+Social Inequality: Unequal access to infrastructure deepens the wealth gap.
+Environmental Degradation: Poor waste management causes pollution and health hazards.
 
--*Data-Driven Interventions: Facilitates the identification of critical needs, enabling NGOs to design targeted and impactful programs.
+4. Housing Crisis
+Homelessness: Increased numbers of people without stable or adequate shelter.
+Overcrowding: Families forced to live in cramped and unsafe conditions.
+Financial Strain: High housing costs reduce disposable income for essentials.
+Social Instability: Housing insecurity fosters anxiety, poor mental health, and community displacement.
 
--*Improved Living Conditions: Timely and tailored assistance leads to better hygiene, health, and overall living standards in slum areas
+6. Environmental Issues
+Health Hazards: Pollution causes respiratory illnesses and other health problems.
+Climate Displacement: Rising sea levels, droughts, and extreme weather displace communities.
+Ecosystem Damage: Loss of biodiversity due to urban sprawl and deforestation.
+Infrastructure Stress: Extreme weather events damage roads, bridges, and housing, increasing costs.
+
 
 ## 🚀 *Skills*  
 
